@@ -4,7 +4,9 @@ Luin Hesarin teemalehteä "Matematiikka" ja eräässä kappaleessa käsiteltiin 
 
 ![image](https://github.com/user-attachments/assets/2ead6328-7a67-4888-ae06-6948263a3164)
 
-Kskwjdwfkj
+Paintilla havainnollisesttu ideaa.
+
+Eli Kolmogorov kompleksisuus(joka on teoreettinen kuten Schwarzschildin säde) on objektin minimi mitta(biteissä) johon voidaan häviöttömästi puristaa/kompressoida objektia, sen jälkeen käy niinkuin mustalle aukolle. Häviöllinen kompressio on siksi uloimmalla kehällä Ven-diagrammissa koska se on epämääräisin(monta eri mittaa siinä lajissa).
 
 
 # RNN vs Transformeri
